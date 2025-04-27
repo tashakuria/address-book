@@ -1,0 +1,56 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:whitesmoke;
+    margin: 10;
+    padding: 0;
+}
+#address book {
+width: 100px;
+margin: 9px;
+padding: 20px;
+background-color:burlywood;
+
+}
+h1{
+    text-align: center;
+    color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+}
+input{
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid beige;
+    border-radius: 4px;
+}
+button{
+    padding: 10px;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 16px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+#contacts list{
+    margin-top: 20px;
+}
+.contact{
+    background-color: beige;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+footer{
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 20px;
+
+}
+
+    
